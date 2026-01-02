@@ -110,6 +110,6 @@ go install github.com/agnivo988/Repo-lyzer@v1.0.0
 2.Then just run 
 ```bash
 repo-lyzer
-```
+``
 
 
